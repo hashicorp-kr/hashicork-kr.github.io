@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 # HashiCorp is Coming to Town
 
 ##### 지난 8월, "Cloud Operating Model"로 전세계 고객들의 Cloud Journey와 Digital Transformation을 지원하며 빠르게 성장하고 있는 HashiCorp의 한국 사업조직이 현재 활발하게 사업을 진행 중에 있습니다!
